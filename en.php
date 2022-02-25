@@ -1,6 +1,6 @@
 <?php
 $lang["AppName"] = "Lokalise";
-$lang["EnterUsername"] = "Enter your username";
+$lang["EnterUsername"] = "Enter your username here";
 $lang["EnterPassword"] = "Enter your password";
 $lang["SignIn"] = "Sign In";
 $lang["IncorrectPassword"] = "Incorrect password";
