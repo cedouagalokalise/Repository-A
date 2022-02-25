@@ -1,5 +1,6 @@
 <?php
 $lang["AppName"] = "Lokalise";
+$lang["CedricOuaga"] = "Hello Niklas";
 $lang["EnterUsername"] = "Enter your username here";
 $lang["EnterPassword"] = "Enter your password";
 $lang["SignIn"] = "Sign In";
