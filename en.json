@@ -1,8 +1,7 @@
 {
   "menu": {
     "en": "English",
-    "ru": "Russian",
-    "test": "Hello world",    
+    "ru": "Russian",   
     "about": "About"
   },
   "main": {
