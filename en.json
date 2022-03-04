@@ -3,6 +3,7 @@
     "en": "English",
     "ru": "Russian",
     "home": "Home",
+    "test": "Hello world",    
     "about": "About"
   },
   "main": {
