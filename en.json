@@ -6,6 +6,7 @@
   },
   "main": {
     "welcome": "Hello from {company}!",
+    "welcome 2": "Hello from my new {company}!",
     "new_message": "no messages | one message | {count} messages"
   },
   "about": {
