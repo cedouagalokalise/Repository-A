@@ -1,6 +1,10 @@
 {
+    "menu": {
+        "marketName": "Storbritannien",
+        "Brand": "Lokalise",
+        "about": "Handla om"
+    },
     "main": {
-        "SIGNUP_PROMPT_SUBTITLE": "Du kan spendera mindre pengar, tid och ansträngning med ett konto.",
-        "new_message": "inga meddelanden | ett meddelande | {count} meddelanden"
+        "welcome": "Hej från {company} !"
     }
 }

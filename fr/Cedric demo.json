@@ -1,6 +1,10 @@
 {
+    "menu": {
+        "marketName": "Royaume-Uni",
+        "Brand": "Lokalise",
+        "about": "À propos de"
+    },
     "main": {
-        "SIGNUP_PROMPT_SUBTITLE": "Vous pouvez dépenser moins d'argent, de temps et d'efforts avec un compte.",
-        "new_message": "aucun message | un message | {count} messages"
+        "welcome": "Bonjour de {company} !"
     }
 }
