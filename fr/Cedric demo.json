@@ -1,0 +1,23 @@
+{
+    "menu": {
+        "EN_UK": "",
+        "RU": "",
+        "home": "",
+        "marketName": "",
+        "Brand": "",
+        "about": ""
+    },
+    "main": {
+        "welcome": "",
+        "intro": "",
+        "Tab_flights": "",
+        "Tab_Hotels": "",
+        "Homepage": "",
+        "Tab_Carhire": "",
+        "SIGNUP_PROMPT_SUBTITLE": "",
+        "new_message": ""
+    },
+    "about": {
+        "welcome": ""
+    }
+}
