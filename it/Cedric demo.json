@@ -1,6 +1,10 @@
 {
+    "menu": {
+        "marketName": "Regno Unito",
+        "Brand": "Lokalise",
+        "about": "Di"
+    },
     "main": {
-        "SIGNUP_PROMPT_SUBTITLE": "Puoi spendere meno soldi, tempo e fatica con un account.",
-        "new_message": "nessun messaggio | un messaggio | {count} messaggi"
+        "welcome": "Ciao da {company} !"
     }
 }
