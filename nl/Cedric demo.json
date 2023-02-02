@@ -15,10 +15,10 @@
         "Tab_Hotels": "",
         "Homepage": "",
         "Tab_Carhire": "",
-        "SIGNUP_PROMPT_SUBTITLE": "Vous pouvez dépenser moins d'argent, de temps et d'efforts avec un compte.",
-        "new_message": "aucun message | un message | messages"
+        "SIGNUP_PROMPT_SUBTITLE": "",
+        "new_message": ""
     },
     "about": {
-        "welcome": "Bienvenue sur la page À propos !"
+        "welcome": ""
     }
 }
