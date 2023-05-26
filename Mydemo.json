@@ -1,6 +1,7 @@
 {
   "menu": {
     "EN_UK": "English language",
+    "test key": "this is a new key",
     "FR_FR": "French language",
     "RU": "Russian",
     "home": "Home", 
